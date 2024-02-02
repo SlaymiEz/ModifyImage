@@ -25,7 +25,7 @@ public class CubeColors {
                 int b = p & 0xff;
                 if (r != 0 && g != 0 && b != 0){
                     a = 255;
-                    r = 0;
+                    r = 255;
                     g = 255;
                     b = 0;
                     p = (a <<24) | (r << 16) | (g << 8) | b;
