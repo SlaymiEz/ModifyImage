@@ -49,7 +49,7 @@ public class GetSetPixels {
         
 
         a = 255;
-        r = 0;
+        r = 255;
         g = 255;
         b = 0;
 
