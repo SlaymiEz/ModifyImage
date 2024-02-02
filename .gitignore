@@ -1,2 +1,3 @@
-bin/GetSetPixels.class
-bin
+bin/
+.vscode/
+lib/
