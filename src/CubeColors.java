@@ -26,7 +26,7 @@ public class CubeColors {
                 if (r != 0 && g != 0 && b != 0){
                     a = 255;
                     r = 255;
-                    g = 255;
+                    g = 0;
                     b = 0;
                     p = (a <<24) | (r << 16) | (g << 8) | b;
                     img.setRGB(col, row, p);
